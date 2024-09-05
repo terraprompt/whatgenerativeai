@@ -1,0 +1,9 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'GenAI Playbook'
+
+[menu]
+[[menu.after]]
+  name = "Github"
+  url = "https://github.com/dipankar"
+  weight = 10
