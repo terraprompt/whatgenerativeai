@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'GenAI Playbook'
+theme = 'hugo-book'
 
 [menu]
 [[menu.after]]
