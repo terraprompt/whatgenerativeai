@@ -9,7 +9,10 @@ slug: "understanding-limitations-where-genai-falls-short"
 weight: 12
 ---
 
-# Use Cases Where GenAI Falls Short: Navigating the Limitations of AI
+![Navigating the Limitations of AI](/12.png)
+
+# Use Cases Where GenAI Falls Short
+**Navigating the Limitations of AI**
 
 While Generative AI (GenAI) has shown remarkable capabilities across various domains, it's crucial for organizations to understand its limitations. Recognizing where GenAI falls short not only prevents misallocation of resources but also ensures that alternative, potentially more effective solutions are considered when appropriate. This section explores specific use cases and scenarios where current GenAI technologies may not be the optimal choice.
 
@@ -80,9 +83,13 @@ In many professional and regulatory contexts, it's not enough to provide an answ
 - **CPO**: Leverage GenAI for enhancing product features, but rely on human insight for breakthrough innovations and user experience design that requires deep empathy.
 - **CTO**: Develop a hybrid approach that combines GenAI strengths with traditional methods, especially for mission-critical systems and those requiring clear audit trails.
 
+{{< hint warning >}}
+
 ## Info Box: AI Winters and Their Lessons for GenAI Expectations
 
 The history of AI has seen periods of great excitement followed by disappointment and reduced funding, known as "AI winters." The most notable occurred in the 1970s and late 1980s, when promises of human-like AI failed to materialize.
+
+{{< /hint >}}
 
 Key lessons:
 1. Avoid overhyping capabilities: Be realistic about what GenAI can and cannot do.

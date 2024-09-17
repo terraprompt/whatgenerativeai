@@ -9,7 +9,10 @@ slug: "revolutionizing-business-functions-departmental-genai-integration"
 weight: 4
 ---
 
-# Departmental GenAI Integration: Transforming Business Functions
+![Transforming Business Functions](/4.png)
+
+# Departmental GenAI Integration
+**Transforming Business Functions**
 
 The true power of Generative AI (GenAI) is realized when it's integrated across various departments within an organization. This section explores how different business functions can leverage GenAI to enhance their operations, drive innovation, and create competitive advantages.
 
@@ -179,6 +182,8 @@ The evolution of enterprise software provides valuable lessons for GenAI integra
 
 6. **2020 onwards**: GenAI begins to augment and potentially transform traditional enterprise software.
 
+{{< /hint >}}
+
 Key lessons:
 - Integration is crucial: Just as ERP systems aimed to unify business processes, GenAI should be integrated across departments for maximum impact.
 - Change management matters: Successful adoption requires not just technological implementation, but cultural and process changes.
@@ -187,4 +192,3 @@ Key lessons:
 
 As we integrate GenAI into various business functions, these historical lessons can guide us in avoiding pitfalls and maximizing the transformative potential of this technology.
 
-{{< /hint >}}

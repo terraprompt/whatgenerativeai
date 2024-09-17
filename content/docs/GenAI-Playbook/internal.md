@@ -9,7 +9,10 @@ slug: "crafting-success-building-internal-genai-use-cases"
 weight: 7
 ---
 
-# Building Internal GenAI Use Cases: From Concept to Implementation
+![From Concept to Implementation](/7.png)
+
+# Building Internal GenAI Use Cases
+**From Concept to Implementation**
 
 While off-the-shelf GenAI solutions can provide significant value, the true transformative potential of this technology often lies in developing custom use cases tailored to your organization's unique needs and challenges. This section explores the process of identifying, developing, and implementing internal GenAI use cases, ensuring they align with your business objectives and deliver measurable value.
 
@@ -148,7 +151,8 @@ A leading manufacturing company implemented a custom GenAI solution to enhance i
 - Prioritize data integration and quality to ensure the success of GenAI implementations.
 - Stay abreast of emerging GenAI technologies and assess their potential impact on your technology stack.
 
-<div style="background-color: #f0f0f0; padding: 15px; margin: 10px 0; border-left: 5px solid #3498db;">
+
+{{< hint warning >}}
 
 **Info Box: Lessons from Early AI Implementations in Industry**
 
@@ -164,6 +168,8 @@ Early AI implementations provide valuable insights for current GenAI initiatives
 
 5. **2020 onwards**: GenAI begins to transform creative and analytical processes across industries.
 
+{{</ hint >}}
+
 Key lessons:
 - Start with well-defined, high-value problems rather than trying to boil the ocean.
 - Ensure strong alignment between AI capabilities and business needs.
@@ -173,8 +179,4 @@ Key lessons:
 
 These historical lessons underscore the importance of strategic planning, realistic expectations, and a focus on tangible business outcomes when implementing GenAI use cases.
 
-</div>
-
 As you embark on building internal GenAI use cases, remember that success often comes through iteration and learning. Start with pilot projects, measure results rigorously, and be prepared to pivot based on your findings. The most successful GenAI implementations are those that evolve alongside your business, continuously adapting to new challenges and opportunities.
-
-In the next sections, we'll explore how to scale your GenAI initiatives across the organization and how to build a culture that embraces AI-driven innovation.
