@@ -58,7 +58,7 @@ The GenAI Playbook is built on a foundation of core values that guide our approa
 
 ## About the Author: Dipankar Sarkar
 
-Dipankar Sarkar is a visionary leader in the fields of AI and blockchain technology, with over 15 years of expertise in driving digital innovation. As an AI and Software head at Orangewood Labs, Dipankar has been at the forefront of integrating Large Language Models with Deep-learning Computer Vision, revolutionizing robotic advancements.
+[Dipankar Sarkar](https://www.dipankar.name) has worked extensively in the fields of AI and blockchain technology, with over 15 years of expertise in driving digital innovation. As an AI and Software head at Orangewood Labs, Dipankar has been at the forefront of integrating Large Language Models with Deep-learning Computer Vision, revolutionizing robotic advancements.
 
 His impressive career includes:
 
