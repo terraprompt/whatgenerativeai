@@ -123,5 +123,5 @@ theme = 'hugo-book'
 [menu]
 [[menu.after]]
   name = "Github"
-  url = "https://github.com/dipankar"
+  url = "https://github.com/terraprompt/whatgenerativeai"
   weight = 10
