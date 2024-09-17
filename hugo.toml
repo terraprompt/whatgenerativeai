@@ -125,3 +125,8 @@ theme = 'hugo-book'
   name = "Github"
   url = "https://github.com/terraprompt/whatgenerativeai"
   weight = 10
+
+[[menu.after]]
+  name = "Contact us"
+  url = "https://www.dipankar.name"
+  weight = 12
