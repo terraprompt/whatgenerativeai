@@ -1,5 +1,3 @@
-Here's the translated content in Tamil:
-
 ---
 title: "தரவு முக்கியமானது"
 date: "2024-08-27"
