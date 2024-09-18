@@ -1,5 +1,3 @@
-Here's the translated content in Czech:
-
 ---
 title: "Být o krok napřed"
 date: "2024-08-27"
