@@ -1,5 +1,3 @@
-Here's the Turkish translation of the provided markdown content:
-
 ---
 title: "Öne Geçmek"
 date: "2024-08-27"
