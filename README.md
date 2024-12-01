@@ -1,4 +1,4 @@
-# Whatgenerativeai : Generative AI guides for CXOs and leaders
+# Whatgenerativeai : Generative AI guide for CXOs and leaders
 
 ![GenAI Playbook and Cookbook header](header.png)
 
